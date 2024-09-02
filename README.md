@@ -1,2 +1,2 @@
-# 2da.-P-gina-web
+# Curriculum Vitae
 Se usó Bootstrap reponsive y SweetAlert2(posiblemente)
